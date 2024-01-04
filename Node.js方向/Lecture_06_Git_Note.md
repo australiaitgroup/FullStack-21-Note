@@ -74,13 +74,16 @@ GitHub的其他功能：
   ![git_setup](./assets/images/git_setup.jpg)
 > 如果Mac版本code命令不工作，可以参考 :https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
 
-### 4.2 创建 Local Repository  
+### 4.2 git 的工作流程
+![git_summary](./assets/images/git_summary.jpg)
+
+### 4.3 创建 Local Repository  
 使用命令
 - `git init`
   - 将当前文件夹变成一个git repository, 让Git去tracking changes
   - 不要手动更改 .git 文件夹
 - `git clone` (只有拉取remote repository时才有用)
-### 4.3 Git 的工作流程
+### 4.4 Git 的本地工作流程
 本地commit (也叫checkin)：分为两步
 ![git_working_process](./assets/images/git_working_process.jpg)
 - Step one: stage  
@@ -106,14 +109,14 @@ GitHub的其他功能：
 > 好用的 VScode Git 插件  
 https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
 
-### 4.4 `Git stash` 命令
+### 4.5 `Git stash` 命令
 `git stash` 临时暂存区，不会进入verson control history
   - `git stash list` - 查看stash列表
   - `git stash pop` - 取最近的stash
   - `git stash apply <编号>`
 > stash 用在 commit 之间，写了但又没到 commit 的程度时的 snapshot
 
-### 4.5 Undo Change
+### 4.6 Undo Change
 
 - `git checkout .` 把本地工作目录还原到最新的版本 
   - 也可以使用 vscode 图形化界面里的 discard
@@ -131,8 +134,10 @@ https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
 > `git push`时候如果不想 push 现在 commit 的版本，那我就必须用刚刚 undo 几种办法回滚到想 commit 的版本再 push  
 > 本地 revert 的记录会被上传到远程库  
 > 本地 reset 的记录不会被上传到远程库
-### 4.6 一些其他命令
+### 4.7 一些其他命令
 生成文字或图形化log记录
+- push到远端 `git push origin`
+
 - 文字： `git log`
 - 图形化：`git log --all --decorate --oneline --graph`
 
