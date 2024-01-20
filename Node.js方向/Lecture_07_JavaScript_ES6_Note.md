@@ -1,7 +1,7 @@
 # Lecture 06 JavaScript ES6 
 
 ## Desciption
-- 本篇笔记是 Mason 老师 Lecture 06 JS ES6 的随堂笔记
+- 本篇笔记是 Mason 老师 Lecture 07 JS ES6 的随堂笔记
 - 老师 [github 的 note 链接](https://github.com/LazeBear/jr-fullstack-notes-21/blob/master/ES6/note.md)：
 ## Table of Content
 - [什么是ES6](#什么是es6)  
