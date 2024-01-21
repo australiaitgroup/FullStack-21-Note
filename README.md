@@ -10,3 +10,4 @@ Node.js方向
 - [Lecture_06_Git_Note.md](https://github.com/australiaitgroup/FullStack-21-Note/blob/main/Node.js%E6%96%B9%E5%90%91/Lecture_06_Git_Note.md)
 - [Lecture_07_JavaScript_ES6_Note](https://github.com/australiaitgroup/FullStack-21-Note/blob/aaf738f90df4ec7f4d3c797252952f99a1a37d5b/Node.js%E6%96%B9%E5%90%91/Lecture_07_JavaScript_ES6_Note.md)
 - [Lecture_08_JavaScript_ES6_Note(2)](https://github.com/australiaitgroup/FullStack-21-Note/blob/9576ebd9e2fc433add6864a2128e6e10ec5c3730/Node.js%E6%96%B9%E5%90%91/Lecture_08_JavaScript_SE6(2).md)
+- [Lecture_09_React_Part_1_Note](https://github.com/australiaitgroup/FullStack-21-Note/blob/e79de7b80874f28089f39dd07dcd8aeca82536c4/Node.js%E6%96%B9%E5%90%91/Lecture_09_React_Part_1_Note.md)
