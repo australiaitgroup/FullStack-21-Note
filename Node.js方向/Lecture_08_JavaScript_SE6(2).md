@@ -1,4 +1,4 @@
-# lecture 8 JS SE6(2)
+# lecture 8 JS SE6 Part 2
 ## Description
 这篇笔记是 Mason 老师 Lecture 08 JS ES6 课程的随堂笔记，请结合老师 [github的note](https://github.com/LazeBear/jr-fullstack-notes-21/blob/master/ES6/note.md) 一起看：
 ## Table of Content
