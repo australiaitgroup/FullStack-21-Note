@@ -1,7 +1,7 @@
 # Lecture 10 React (2)
 
 ## Description
-本篇笔记以 Zhao Long 老师的 Lecture 09 React (Part 2) 随堂笔记
+本篇笔记以 Zhao Long 老师的 Lecture 10 React (Part 2) 随堂笔记
 ## Table of Content
 - [React 是简单易用的框架](#1-react-是简单易用的框架)  
 - [如何搭建 React 项目](#2-如何搭建-react-项目)  
