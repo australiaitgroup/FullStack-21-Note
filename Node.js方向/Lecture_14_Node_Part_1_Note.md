@@ -136,7 +136,7 @@ console.log(moduleA.exports.getCount());
     ```js
     const fs = require('fs')
     ```
-    ！[node_fs_read_file_and_write_file](./node_fs_read_file_and_write_file.jpg)
+    ![node_fs_read_file_and_write_file](./node_fs_read_file_and_write_file.jpg)
 ### Http Module
   - Create a server and listen for requests on a specific port
   ```js
