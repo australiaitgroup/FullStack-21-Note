@@ -14,3 +14,4 @@ Node.js方向
 - [Lecture_12_React_Part_4_Note.md](https://github.com/australiaitgroup/FullStack-21-Note/blob/05c0c79b2e83050936fe956dbb676a44bfdd8553/Node.js%E6%96%B9%E5%90%91/Lecture_12_React_Part_4_Note.md)
 - [Lecture_13_React_Part_5_Note.md](https://github.com/australiaitgroup/FullStack-21-Note/blob/05c0c79b2e83050936fe956dbb676a44bfdd8553/Node.js%E6%96%B9%E5%90%91/Lecture_13_React_Part_5_Note.md)
 - [Lecture_14_Node_Part_1_Note.md](https://github.com/australiaitgroup/FullStack-21-Note/blob/76fb668af06fd49936f956d9729e4b2d25639adb/Node.js%E6%96%B9%E5%90%91/Lecture_14_Node_Part_1_Note.md)
+- [Lecture_15_Node_Part_2_Note.md](https://github.com/australiaitgroup/FullStack-21-Note/blob/4cfaab8de64564a4a44e574389a9652d97ef3651/Node.js%E6%96%B9%E5%90%91/Lecture_15_Node_Part_2_Note.md)
