@@ -4,12 +4,12 @@
 本篇笔记为 Mason 老师的 Lecture 14 Node.js (Part 1) 随堂笔记
 
 ## Table of Content
-  [1. NPM - Node Package Manager](#1-npm---node-package-manager)
-  [2. Using NPM](#2-using-npm)
-  [3. Creating a server using server.js](#3-creating-a-server-using-serverjs)
-  [4. dependencies](#4-dependencies)
-  [5. Express.js](#5-expressjs)
-  [6. Middleware](#6-middleware)
+  - [1. NPM - Node Package Manager](#1-npm---node-package-manager)
+  - [2. Using NPM](#2-using-npm)
+  - [3. Creating a server using server.js](#3-creating-a-server-using-serverjs)
+  - [4. dependencies](#4-dependencies)
+  - [5. Express.js](#5-expressjs)
+  - [6. Middleware](#6-middleware)
 
 ## 1. NPM - Node Package Manager
 It is the largest software registry in the world, where packages can be shared and borrowed.
