@@ -68,7 +68,7 @@ app.listen(3000, () => {
 ```
 ## 4. dependencies
 ### 4.1 Sematic Version
-```js
+```json
 // example
 "dependancies": {
   "express": "^4.16.4"
@@ -112,7 +112,7 @@ npm i nodemon -D // abbreviation
 
 ### 4.5 scripts in package.json
 Custom scripts: Before proceeding, check if the packages in our node_modules directory support the shortcut command we've set. If available, npm will utilize it directly.
-```js
+```json
 // package.json
 "scripts": {
   "dev": "nodemon index.js " // sometimes:  需要添加一些很长的参数，所以使用快捷命令很方便
