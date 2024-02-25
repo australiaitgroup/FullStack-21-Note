@@ -114,9 +114,10 @@ Custom scripts: Before proceeding, check if the packages in our node_modules dir
 - package.json
 ```json
 "scripts": {
-  "dev": "nodemon index.js " // sometimes:  需要添加一些很长的参数，所以使用快捷命令很方便
+  "dev": "nodemon index.js " 
 }
 ```
+sometimes:  需要添加一些很长的参数，所以使用快捷命令很方便
 - cli
 `npm run dev`
 
