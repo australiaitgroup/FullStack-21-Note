@@ -1,4 +1,4 @@
-# Lecture 22 Node Part 8 Authentication & Authorization
+# Lecture 24 Node Part 8 Authentication & Authorization
 ## Description
 本篇笔记为 Mason 老师的 Lecture 22 Node.js (Part 9) 随堂笔记
 ## Table of Content
