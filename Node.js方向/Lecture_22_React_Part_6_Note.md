@@ -67,14 +67,21 @@ Prerequisites：knowing `HTML`, `CSS`, `JavaScript`(`jQuery`), but unfamiliar wi
 - boilerplate
 > Knowledge is driven by code; learn when needed.
 ### webpack
-- **Loaders**:
-  - Loaders allow Webpack to process non-JavaScript files and transform them into modules that can be used by the application. For example, using a Babel loader can transform JavaScript files with ES6+ syntax into backward-compatible ES5 syntax.
+- Concept
+  - **Entry Points**: 
+    - Specify one or more entry points where Webpack starts building the dependency graph of the application.
 
-- **Plugins**:
-  - Plugins can perform various tasks such as optimization, asset management, environment variable injection, etc. Webpack plugins extend the functionality of Webpack to meet specific requirements.
+  - **Output**: 
+    -Define where Webpack should emit the bundled files and how they should be named.
+    
+  - **Loaders**:
+    - Loaders allow Webpack to process non-JavaScript files and transform them into modules that can be used by the application. For example, using a Babel loader can transform JavaScript files with ES6+ syntax into backward-compatible ES5 syntax.
 
-- **Mode**:
-  - Mode specifies the build mode of Webpack, which can be development, production, or none. Different modes trigger different built-in optimization strategies to meet the needs of either the development or production environment.
+  - **Plugins**:
+    - Plugins can perform various tasks such as optimization, asset management, environment variable injection, etc. Webpack plugins extend the functionality of Webpack to meet specific requirements.
+
+  - **Mode**:
+    - Mode specifies the build mode of Webpack, which can be development, production, or none. Different modes trigger different built-in optimization strategies to meet the needs of either the development or production environment.
 
 - `webpack.config.js`
   -   Configuration in Webpack refers to the setup and customization of the build process through a configuration file. This file, usually named `webpack.config.js`, contains various options and settings that define how Webpack should bundle the project's assets.
